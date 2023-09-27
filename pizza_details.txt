@@ -1,0 +1,6 @@
+By the given data of pizza sales of one year from January 2015 to December 2015   we explore the things which is helps to grow for sales of pizza.
+
+We can do modification in sales according to offer lowest type of pizza with cold drink or fries.Its very helpful to make profit and generate more revenue using analysis. 
+
+Also we analysed the peak hours and  average customers  on daily basis and  the Best seller.Its useful for special season managed the stock and manpower through analysis.
+
